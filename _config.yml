@@ -1,8 +1,8 @@
-title: Your awesome title #  !!! nome del sito !!! PERSONALIZZARE !!!
-email: your-email@example.com #  email ufficiale di contatto !!! PERSONALIZZARE !!!
+title: Associazione di esempio #  !!! nome del sito !!! PERSONALIZZARE !!!
+email: info@18f.it #  email ufficiale di contatto !!! PERSONALIZZARE !!!
 description: >- # descrizione del sito  !!! PERSONALIZZARE !!!
-  Sito ufficiale di questa associazione.
-baseurl: "/"  #  !!! non toccare !!!
+  Template di "associazioni" realizzato con bootstrap italia 5.0.
+baseurl: "/design-associazione-it/"  #  !!! non toccare !!!
 url: "https://so.dipartimento.polo18f.it" # URL del sito (cambiare)
 
 # Build settings
